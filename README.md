@@ -2,8 +2,7 @@
 
 A fun and interactive **Python + Tkinter** application that generates random, hilarious, and absurd fake news headlines based on different categories. Perfect for creative inspiration, humor, or just messing with your friends (for fun only, of course).
 
-<img width="680" height="595" alt="image" src="https://github.com/user-attachments/assets/4d2706ba-0490-4ebc-9edb-08d7b62e52c0" />
-
+<img width="680" height="578" alt="image" src="https://github.com/user-attachments/assets/b3fac4a7-f11a-46ba-b47b-2180450b8dda" />
 
 ---
 
