@@ -73,5 +73,12 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 ----
 
-👩‍💻 Author: [aditibelwal007 ]
-📌 GitHub: Your GitHub Profile
+---
+
+## 👩‍💻 Author
+**Aditi Belwal**  
+📌 [GitHub Profile](https://github.com/aditibelwal007)  
+☕ Fuelled by coffee, curiosity, and a little bit of chaos.  
+💌 If you liked this project, consider giving it a ⭐ on GitHub!  
+
+---
